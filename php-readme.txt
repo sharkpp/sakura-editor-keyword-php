@@ -17,6 +17,6 @@
 　php-mkkwd.php
 　　キーワード・キーワードヘルプファイル生成用のスクリプト
 
-最新版：http://svn.coderepos.org/share/platform/sakura-editor/keyword/php
+最新版：https://github.com/sharkpp/sakura-editor-keyword-php
 
 sharkpp
